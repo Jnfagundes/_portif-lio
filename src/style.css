@@ -37,7 +37,23 @@ hr{
     margin: 0px;
 }
 
-.jn{
-    padding: 10px;
-    padding-left: 0px;
+.corpo{
+    display: flex;
+    width: 100%;
+}
+img{
+    width: 20%;
+    right: 10%;
+    padding-right: 20px;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    padding: 5px;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: justify;
 }
