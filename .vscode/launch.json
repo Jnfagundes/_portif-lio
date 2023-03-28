@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "MyClass",
+            "request": "launch",
+            "mainClass": "MyClass",
+            "projectName": "_portif-lio_cb6c5657"
+        },
+        {
             "type": "chrome",
             "request": "launch",
             "name": "Iniciar o Chrome em relação a localhost",
